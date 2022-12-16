@@ -16,3 +16,4 @@ Sources for the information above:
 - https://priwatt.de/wordpress/wp-content/uploads/2022/05/Deye-Solar_Anleitung.pdf
 - https://www.amazon.de/ask/questions/Tx3TC7IFUKCYKLH/
 - https://www.youtube.com/@DeyeInverter_official/videos
+- https://www.photovoltaikforum.com/thread/169125-answer-everything-about-deye-inverters/
