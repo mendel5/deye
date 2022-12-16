@@ -17,3 +17,4 @@ Sources for the information above:
 - https://www.amazon.de/ask/questions/Tx3TC7IFUKCYKLH/
 - https://www.youtube.com/@DeyeInverter_official/videos
 - https://www.photovoltaikforum.com/thread/169125-answer-everything-about-deye-inverters/
+- https://www.deyeinverter.com/download/
