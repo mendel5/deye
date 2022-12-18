@@ -9,6 +9,9 @@ Deye microinverter
 - Web interface username: `admin`
 - Web interface password: `admin`
 
+## Question
+- How to update/upgrade the firmware of a Deye microinverter?
+
 ## Links
 Sources for the information above:
 - https://www.photovoltaikforum.com/thread/178273-deye-sun-600g3-eu-230-firmwarevergleich/?pageNo=2
@@ -18,3 +21,5 @@ Sources for the information above:
 - https://www.youtube.com/@DeyeInverter_official/videos
 - https://www.photovoltaikforum.com/thread/169125-answer-everything-about-deye-inverters/
 - https://www.deyeinverter.com/download/
+- https://www.mydealz.de/deals/deye-600w-sun600g3-eu-230-micro-wechselrichter-mit-wlan-fur-2-solarmodule-fur-mini-pv-balkonkraftwerk-2069861
+- https://www.photovoltaikforum.com/thread/187077-achtung-wifi-sicherheit-der-deye-und-bosswerk-mi600-300-sowie-baugleiche-microwe/?pageNo=1
