@@ -9,7 +9,7 @@ Deye microinverter
 - Web interface username: `admin`
 - Web interface password: `admin`
 
-## Question
+## Questions
 - How to update/upgrade the firmware of a Deye microinverter?
 
 ## Links
