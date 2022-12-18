@@ -10,7 +10,7 @@ Deye microinverter
 - Web interface password: `admin`
 
 ## Questions
-- How to update/upgrade the firmware of a Deye microinverter?
+- How to update/upgrade the firmware of a Deye microinverter? Where can the new firmware be found on the internet and downloaded?
 
 ## Links
 Sources for the information above:
