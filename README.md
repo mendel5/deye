@@ -23,3 +23,5 @@ Sources for the information above:
 - https://www.deyeinverter.com/download/
 - https://www.mydealz.de/deals/deye-600w-sun600g3-eu-230-micro-wechselrichter-mit-wlan-fur-2-solarmodule-fur-mini-pv-balkonkraftwerk-2069861
 - https://www.photovoltaikforum.com/thread/187077-achtung-wifi-sicherheit-der-deye-und-bosswerk-mi600-300-sowie-baugleiche-microwe/?pageNo=1
+- https://github.com/s10l/deye-logger-at-cmd
+- https://www.youtube.com/watch?v=qVzFKhWOvQo Deye Dr. Watt Video
