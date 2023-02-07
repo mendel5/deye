@@ -1,6 +1,8 @@
 # deye
 Information about Deye microinverters for photovoltaic systems / solar power systems
 
+Note: Some content is focused on Germany.
+
 ## Information
 Deye microinverter
 - WiFi name / SSID: `AP_XXXXXXX`
