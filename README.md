@@ -26,6 +26,8 @@ Sources for the information above:
 - https://www.mydealz.de/deals/deye-600w-sun600g3-eu-230-micro-wechselrichter-mit-wlan-fur-2-solarmodule-fur-mini-pv-balkonkraftwerk-2069861
 - https://www.photovoltaikforum.com/thread/187077-achtung-wifi-sicherheit-der-deye-und-bosswerk-mi600-300-sowie-baugleiche-microwe/?pageNo=1
 - https://github.com/s10l/deye-logger-at-cmd
-- https://www.youtube.com/watch?v=qVzFKhWOvQo Deye Dr. Watt Video
+- https://www.youtube.com/watch?v=qVzFKhWOvQo Video von Dr. Watt über Deye Mikrowechselrichter (Sicherheit), mittlerweile nicht mehr aktuell
+- https://www.youtube.com/watch?v=kVRKm_Mphkk Wechselrichter Balkonkraftwerk - so richtig anschließen, Stromerzeugung in der Energiekrise
+- https://www.youtube.com/watch?v=uxPRKZCXfqs Deye 600 SUN600 - Solarman App einrichten - deutsch, Solarmodule-Gladbeck
 - https://www.heise.de/news/Deye-reagiert-Automatisches-Update-fuer-Wechselrichter-mit-WLAN-Luecke-7494024.html
 - https://www.computerbase.de/2023-02/balkonkraftwerk-deye-wechselrichter-erhalten-update-gegen-luecke-automatisch/
