@@ -27,3 +27,5 @@ Sources for the information above:
 - https://www.photovoltaikforum.com/thread/187077-achtung-wifi-sicherheit-der-deye-und-bosswerk-mi600-300-sowie-baugleiche-microwe/?pageNo=1
 - https://github.com/s10l/deye-logger-at-cmd
 - https://www.youtube.com/watch?v=qVzFKhWOvQo Deye Dr. Watt Video
+- https://www.heise.de/news/Deye-reagiert-Automatisches-Update-fuer-Wechselrichter-mit-WLAN-Luecke-7494024.html
+- https://www.computerbase.de/2023-02/balkonkraftwerk-deye-wechselrichter-erhalten-update-gegen-luecke-automatisch/
